@@ -12,3 +12,4 @@ dependencies:
     - openpyxl
     - matplotlib
     - seaborn
+    - keras-hub
